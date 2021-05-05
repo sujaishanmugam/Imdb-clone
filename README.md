@@ -1,5 +1,5 @@
 ## Deployed
-Hello guys check this out this app has used major frontend technologies and 
+Hello guys check this out this app has used major frontend technologies like react and libraries like meterial ui and much more to visit the app (https://imdb-movieapp.herokuapp.com/)
 
 
 
